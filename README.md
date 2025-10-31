@@ -254,7 +254,7 @@ It's hard not to be impressed by what Cypress have delivered already in terms of
 Pros:
 
 - Very easy to setup and write first tests
-- Language support is better than I expected, especially in terms of verbiage and syntax
+- Language support is better than I expected, especially in terms of syntax, BDD etc.
 - Being able to mix prompts and standard Cypress commands greatly increases the flexibility
 - The code to which the prompt commands are interpreted can easily be exported
 - Fairly generous usage limits for free tier users
