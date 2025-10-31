@@ -6,7 +6,7 @@
 
 describe('example to-do app - using cy.prompt()', () => {
   beforeEach(() => {
-    cy.prompt([' visit https://example.cypress.io/todo']);
+    cy.visit('https://example.cypress.io/todo');
   });
 
   it('displays two todo items by default', () => {

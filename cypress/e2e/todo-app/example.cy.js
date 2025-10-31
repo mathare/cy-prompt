@@ -1,8 +1,8 @@
 /// <reference types="cypress" />
 
-// This is the example todo.cy.js spec file that is automatically created when running Cypress for the first time.
+// This is the example `todo.cy.js` spec file that is automatically created when running Cypress for the first time.
 // It uses a simple todo list app as the application under test. This spec file will be the baseline for experimenting
-// with cy.prompt(), a natural language processing feature added to Cypress in v15.4.0 (October 2025).
+// with `cy.prompt()`, a natural language processing feature added to Cypress in v15.4.0 (October 2025).
 // NB Other than adding this comment and deleting the auto-generated comments this spec file is unchanged from the original.
 
 describe('example to-do app', () => {
